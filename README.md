@@ -1,4 +1,4 @@
-How to Run The Game
+# How to Run The Game
 
 Install The Following Packages
 `python3 -m pip install numpy` 
